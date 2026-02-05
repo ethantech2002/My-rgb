@@ -1,4 +1,8 @@
-#1a658f
-#141b4d
-#512D6D
-#672146
+{
+  "keyboard_palette": {
+    "cyan": "#00F6FF",
+    "blue": "#005CFF",
+    "magenta": "#FF00F6",
+    "purple": "#7A00FF"
+  }
+}
